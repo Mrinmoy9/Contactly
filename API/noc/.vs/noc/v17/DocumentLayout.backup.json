@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrinm\\Documents\\New_Project\\API\\noc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9245F993-18A2-4AD8-9CA3-F6134F01CCF5}|Solution Items{9245F993-18A2-4AD8-9CA3-F6134F01CCF5}|C:\\Users\\mrinm\\Documents\\New_Project\\API\\noc\\Array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9245F993-18A2-4AD8-9CA3-F6134F01CCF5}|Solution Items{9245F993-18A2-4AD8-9CA3-F6134F01CCF5}|solutionrelative:Array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3668B763-54D8-46E0-8DBA-7715FB61F1CA}|noc\\noc.csproj|c:\\users\\mrinm\\documents\\new_project\\api\\noc\\noc\\linqpractices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3668B763-54D8-46E0-8DBA-7715FB61F1CA}|noc\\noc.csproj|solutionrelative:noc\\linqpractices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3668B763-54D8-46E0-8DBA-7715FB61F1CA}|noc\\noc.csproj|c:\\users\\mrinm\\documents\\new_project\\api\\noc\\noc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3668B763-54D8-46E0-8DBA-7715FB61F1CA}|noc\\noc.csproj|solutionrelative:noc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3668B763-54D8-46E0-8DBA-7715FB61F1CA}|noc\\noc.csproj|c:\\users\\mrinm\\documents\\new_project\\api\\noc\\noc\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3668B763-54D8-46E0-8DBA-7715FB61F1CA}|noc\\noc.csproj|solutionrelative:noc\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Array.cs",
+              "DocumentMoniker": "C:\\Users\\mrinm\\Documents\\New_Project\\API\\noc\\Array.cs",
+              "RelativeDocumentMoniker": "Array.cs",
+              "ToolTip": "C:\\Users\\mrinm\\Documents\\New_Project\\API\\noc\\Array.cs",
+              "RelativeToolTip": "Array.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T03:46:07.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinqPractices.cs",
+              "DocumentMoniker": "C:\\Users\\mrinm\\Documents\\New_Project\\API\\noc\\noc\\LinqPractices.cs",
+              "RelativeDocumentMoniker": "noc\\LinqPractices.cs",
+              "ToolTip": "C:\\Users\\mrinm\\Documents\\New_Project\\API\\noc\\noc\\LinqPractices.cs",
+              "RelativeToolTip": "noc\\LinqPractices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:30:41.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "C:\\Users\\mrinm\\Documents\\New_Project\\API\\noc\\noc\\Program2.cs",
+              "RelativeDocumentMoniker": "noc\\Program2.cs",
+              "ToolTip": "C:\\Users\\mrinm\\Documents\\New_Project\\API\\noc\\noc\\Program2.cs",
+              "RelativeToolTip": "noc\\Program2.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvzUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:07:56.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrinm\\Documents\\New_Project\\API\\noc\\noc\\Program.cs",
+              "RelativeDocumentMoniker": "noc\\Program.cs",
+              "ToolTip": "C:\\Users\\mrinm\\Documents\\New_Project\\API\\noc\\noc\\Program.cs",
+              "RelativeToolTip": "noc\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwEcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T16:43:29.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

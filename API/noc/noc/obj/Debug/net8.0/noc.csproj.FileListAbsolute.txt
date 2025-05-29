@@ -1,0 +1,14 @@
+C:\Users\mrinm\Documents\New_Project\API\noc\noc\bin\Debug\net8.0\noc.exe
+C:\Users\mrinm\Documents\New_Project\API\noc\noc\bin\Debug\net8.0\noc.deps.json
+C:\Users\mrinm\Documents\New_Project\API\noc\noc\bin\Debug\net8.0\noc.runtimeconfig.json
+C:\Users\mrinm\Documents\New_Project\API\noc\noc\bin\Debug\net8.0\noc.dll
+C:\Users\mrinm\Documents\New_Project\API\noc\noc\bin\Debug\net8.0\noc.pdb
+C:\Users\mrinm\Documents\New_Project\API\noc\noc\obj\Debug\net8.0\noc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrinm\Documents\New_Project\API\noc\noc\obj\Debug\net8.0\noc.AssemblyInfoInputs.cache
+C:\Users\mrinm\Documents\New_Project\API\noc\noc\obj\Debug\net8.0\noc.AssemblyInfo.cs
+C:\Users\mrinm\Documents\New_Project\API\noc\noc\obj\Debug\net8.0\noc.csproj.CoreCompileInputs.cache
+C:\Users\mrinm\Documents\New_Project\API\noc\noc\obj\Debug\net8.0\noc.dll
+C:\Users\mrinm\Documents\New_Project\API\noc\noc\obj\Debug\net8.0\refint\noc.dll
+C:\Users\mrinm\Documents\New_Project\API\noc\noc\obj\Debug\net8.0\noc.pdb
+C:\Users\mrinm\Documents\New_Project\API\noc\noc\obj\Debug\net8.0\noc.genruntimeconfig.cache
+C:\Users\mrinm\Documents\New_Project\API\noc\noc\obj\Debug\net8.0\ref\noc.dll
